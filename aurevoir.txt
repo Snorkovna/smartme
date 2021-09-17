@@ -1,3 +1,3 @@
 print("aurevoir")
 print("Bye")
-prin("olala")
+print("olala")
