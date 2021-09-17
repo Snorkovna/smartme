@@ -1,2 +1,2 @@
-print("bonjour")
-print("paris")
+print("bonjour;")
+print("paris;")
